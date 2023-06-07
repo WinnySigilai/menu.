@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: hwb(0 99% 0%);
+    width: 80%; 
+    background-image: url("cocktail.jpg");
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    color: #e9e7e7;
+    font-style: italic;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color: #0a0a0a;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #2725ac;
+    font-style: oblique;
+    font-weight: bolder;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid #2725ac;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(56, 56, 56);
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+aside {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    width: 50%;
+    text-align: right;
+    color: #2725ac;
+    font-style: italic
+    
+}
+
+
+.item {
+    background-color: #fff;
+}
+
+.item p {
+    color: red;
+}
